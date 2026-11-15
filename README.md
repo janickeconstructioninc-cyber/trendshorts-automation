@@ -1,0 +1,1 @@
+# trendshorts-automation
